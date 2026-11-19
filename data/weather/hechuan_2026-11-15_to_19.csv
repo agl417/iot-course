@@ -1,0 +1,7 @@
+date,record_type,weather_day,weather_night,temp_high_c,temp_low_c,observation_time,temp_c,wind,humidity_pct,precip_mm,source
+2026-11-15,daily_history,小雨,中雨,16,14,,,,,,https://www.tianqihoubao.com/lishi/hechuan/20261115.html
+2026-11-16,daily_history,小雨,小雨,14,11,,,,,,https://www.tianqihoubao.com/lishi/hechuan/20261116.html
+2026-11-17,daily_history,阴,小雨,14,11,,,,,,https://www.tianqihoubao.com/lishi/hechuan/20261117.html
+2026-11-18,daily_history,阴,阴,16,10,,,,,,https://www.tianqihoubao.com/lishi/hechuan/20261118.html
+2026-11-19,partial_observation,,,,,2026-11-19 10:37,9,西南风2级,98,0,https://www.qweather.com/weather/hechuan-101040300.html
+2026-11-19,partial_observation,,,,,2026-11-19 14:45,16.1,东北风微风,65,0,https://www.nmc.cn/publish/forecast/ACQ/hechuan.html
